@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj": {}
+    "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj": {
+    "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj",
         "projectName": "SuDungLeWhile",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\SuDungLeWhile\\SuDungLeWhile.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungLeWhile\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\SuDungLeWhile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",

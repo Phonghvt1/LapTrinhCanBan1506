@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\DinhNghiDuLieu\\DinhNghiDuLieu.csproj",
+      "projectUniqueName": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\DinhNghiDuLieu\\DinhNghiDuLieu.csproj",
       "projectName": "DinhNghiDuLieu",
-      "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\DinhNghiDuLieu\\DinhNghiDuLieu.csproj",
+      "projectPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\DinhNghiDuLieu\\DinhNghiDuLieu.csproj",
       "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\DinhNghiDuLieu\\obj\\",
+      "outputPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\DinhNghiDuLieu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj": {}
+    "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj": {
+    "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj",
         "projectName": "HinhHoc",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\HinhHoc\\HinhHoc.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\HinhHoc\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\LapTrinhCanBan1506\\HinhHoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
